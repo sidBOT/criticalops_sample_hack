@@ -1,0 +1,10 @@
+Package: com.criticalforceentertainment.criticalops
+Name: copsjb
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: maskman
+Author: maskman
+Section: Tweaks
+Version: 0.0.1-85+debug
+Installed-Size: 120
